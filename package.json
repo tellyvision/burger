@@ -1,0 +1,28 @@
+{
+  "name": "eat-da-burger",
+  "version": "1.0.0",
+  "description": "Buger eating application with Node.js, Express, Handlebars, and MySQL.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "express-handlebars": "^3.0.0",
+    "method-override": "^2.3.7",
+    "mysql": "^2.13.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tellyvision/burger.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/tellyvision/burger/issues"
+  },
+  "homepage": "https://github.com/tellyvision/burger#readme"
+}
